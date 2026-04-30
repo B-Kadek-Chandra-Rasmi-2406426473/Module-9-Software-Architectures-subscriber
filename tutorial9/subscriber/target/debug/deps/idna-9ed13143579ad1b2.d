@@ -1,0 +1,10 @@
+C:\Users\kadek\IdeaProjects\TutorialModul9\Module-9-Software-Architectures-subscriber\tutorial9\subscriber\target\debug\deps\idna-9ed13143579ad1b2.d: C:\Users\kadek\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-0.1.5\src\lib.rs C:\Users\kadek\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-0.1.5\src\punycode.rs C:\Users\kadek\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-0.1.5\src\uts46.rs C:\Users\kadek\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-0.1.5\src\uts46_mapping_table.rs
+
+C:\Users\kadek\IdeaProjects\TutorialModul9\Module-9-Software-Architectures-subscriber\tutorial9\subscriber\target\debug\deps\libidna-9ed13143579ad1b2.rlib: C:\Users\kadek\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-0.1.5\src\lib.rs C:\Users\kadek\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-0.1.5\src\punycode.rs C:\Users\kadek\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-0.1.5\src\uts46.rs C:\Users\kadek\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-0.1.5\src\uts46_mapping_table.rs
+
+C:\Users\kadek\IdeaProjects\TutorialModul9\Module-9-Software-Architectures-subscriber\tutorial9\subscriber\target\debug\deps\libidna-9ed13143579ad1b2.rmeta: C:\Users\kadek\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-0.1.5\src\lib.rs C:\Users\kadek\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-0.1.5\src\punycode.rs C:\Users\kadek\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-0.1.5\src\uts46.rs C:\Users\kadek\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-0.1.5\src\uts46_mapping_table.rs
+
+C:\Users\kadek\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-0.1.5\src\lib.rs:
+C:\Users\kadek\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-0.1.5\src\punycode.rs:
+C:\Users\kadek\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-0.1.5\src\uts46.rs:
+C:\Users\kadek\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-0.1.5\src\uts46_mapping_table.rs:
