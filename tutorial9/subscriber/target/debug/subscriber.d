@@ -1,1 +1,1 @@
-C:\Users\kadek\IdeaProjects\TutorialModul9\Module-9-Software-Architectures-subscriber\tutorial9\subscriber\target\debug\subscriber.exe: C:\Users\kadek\IdeaProjects\TutorialModul9\Module-9-Software-Architectures-subscriber\tutorial9\subscriber\src\main.rs
+/mnt/c/Users/kadek/IdeaProjects/TutorialModul9/Module-9-Software-Architectures-subscriber/tutorial9/subscriber/target/debug/subscriber: /mnt/c/Users/kadek/IdeaProjects/TutorialModul9/Module-9-Software-Architectures-subscriber/tutorial9/subscriber/src/main.rs
