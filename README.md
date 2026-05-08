@@ -11,3 +11,11 @@ AMQP (Advanced Message Queuing Protocol) adalah protokol komunikasi jaringan yan
 - **localhost:5672** = alamat dan port tempat RabbitMQ berjalan.
 localhost artinya RabbitMQ berjalan di komputer yang sama, dan 5672 adalah port default protokol AMQP pada RabbitMQ.
 
+
+## Simulation Slow Subscriber
+Setelah mengaktifkan `thread::sleep(ten_millis)`, subscriber membutuhkan waktu 1 detik untuk memproses setiap event. Ketika publisher dijalankan beberapa kali dengan cepat, event-event menumpuk di queue karena subscriber tidak mampu memproses secepat event masuk.
+
+Pada mesin saya, jumlah queue yang menumpuk adalah 10 karena 2 kali menjalankan publisher × 5 event per run = 10 event,
+dan subscriber baru selesai memproses satu per satu dengan delay 1 detik.
+
+![Slow Subscriber Queue](slow-subscriber-queue.png)
